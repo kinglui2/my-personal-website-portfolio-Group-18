@@ -27,6 +27,9 @@ Welcome to my personal portfolio website! This site is designed to provide an ov
   - [Typed.js](https://github.com/mattboldt/typed.js)
 
 ---
+## **Live Demo**
+The website has been deployed and is live!  
+ [**Visit My Website**](https://kinglui2.github.io/my-personal-website-portfolio/))
 
 ## **Setup Instructions**
 1. Clone this repository:
