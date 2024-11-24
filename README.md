@@ -50,7 +50,6 @@ This website serves as an online portfolio for professional networking and job a
 
 ## **Contact**
 Feel free to reach out for collaborations, job opportunities, or feedback:
--Phone: +254741210843
 -Email: manyasalewis21@gmail.com
 -Location: Nairobi, Kenya
 -Social Links:
